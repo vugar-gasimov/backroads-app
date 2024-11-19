@@ -118,3 +118,8 @@ export const tours = [
     price: 'from $3200',
   },
 ];
+
+export const text =
+  'Discover what sets us apart — we craft unforgettable experiences with a personal touch, ensuring every moment leaves a lasting impression.';
+export const additionalText =
+  "Our team is passionate about turning your dreams into reality, providing support and care every step of the way. Whether it's a journey to a remote paradise or a city exploration, we go above and beyond to make it truly special. We pride ourselves on putting our customers first, listening to your needs, and tailoring each experience to exceed expectations. With exclusive partnerships and insider knowledge, we provide access to hidden gems and experiences unavailable elsewhere.";
